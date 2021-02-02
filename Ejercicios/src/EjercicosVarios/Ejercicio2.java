@@ -6,7 +6,7 @@ public class Ejercicio2 {
 		// TODO Auto-generated method stub
 		int N = 55;
 		double A = 33.3;
-		char C = 'p';
+		char C = 'a';
 		
 		System.out.println("El valor de N es: " +N);
 		System.out.println("El valor de A es: " +A);
